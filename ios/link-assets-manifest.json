@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/GT-CANARY - MorebiRounded-Regular.otf",
+      "sha1": "0ad83c804d7186a45cb4b8c09cf089fe188a69fe"
+    },
+    {
+      "path": "assets/fonts/gt-canary-morebirounded-bold-webfont.woff2.ttf",
+      "sha1": "91d103eaba17c8413f20ad66e3f80a51a074cee4"
+    }
+  ]
+}
